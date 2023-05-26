@@ -1,0 +1,5 @@
+__pycache__
+/users/*
+/users_context/*
+.env1
+my_database1.db

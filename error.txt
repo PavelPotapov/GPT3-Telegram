@@ -1,0 +1,4 @@
+2023-04-22/711246255/A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is too long
+2023-04-22/711246255/A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is too long
+2023-04-22/711246255/A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is too long
+2023-04-23/711246255/A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
